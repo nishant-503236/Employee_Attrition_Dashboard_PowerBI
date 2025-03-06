@@ -21,11 +21,6 @@ This repository contains a Power BI-generated **Employee Attrition Dashboard** t
 - **Power BI** – Data visualization
 - **Excel/SQL** – Data source (optional)
 
-## 📁 File Information
-- **Filename:** `Employee_Attrition_Dashboard_PowerBI.png`
-- **Format:** PNG (Screenshot of Power BI Dashboard)
-- **Resolution:** High-quality visualization
-
 ## 🚀 Usage
 This Power BI dashboard is useful for:
 - **HR Teams** – Identifying attrition trends and improving retention strategies.
